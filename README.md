@@ -1,2 +1,3 @@
-# Profanity_Check
-Profanity analysis of Twitter tweets using Python
+# Profanity analysis of Twitter tweets using Python
+**A. Short Description**
+
