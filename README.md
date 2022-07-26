@@ -28,7 +28,7 @@ A "txt" file with one "profanity word" per line. Check the file called "search_w
 **D. Output Description**
 
 
-A CSV file with 4 columns: "lines", "Bad_Word_Count", "Total_Word_Count", and "Degree_of_Profanity" - Check "output.csv".
+A CSV file with 5 columns: "lines", "Bad_Words", "Bad_Word_Count", "Total_Word_Count", and "Degree_of_Profanity" - Check "output.csv".
 
 **E. TO DO**
 
